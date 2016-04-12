@@ -1,7 +1,7 @@
 name: Sonic Platforms
 favicon: null
 layout_spectrum: 0.76478
-typography_spectrum: 0.7127166190184653
+typography_spectrum: 0.57487
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#030303'
+    - '#aa6a19'
+    - '#eec82e'
+    - '#5f4443'
+    - '#f0fcdd'
   brandStrength: 0.3125
   lightness: 0.7840370233170688
   saturation: 0.06427900562994182
