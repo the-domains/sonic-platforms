@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sonic Platforms]]></title>
+        <description><![CDATA[Sonic Platforms]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 01:05:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://hypebeast.com/2015/3/brain-dead-2015-spring-summer-lookbook-drop-2</p>]]></description>
+            <link>undefined75de9a73-aa5e-42bc-a206-994bd6a91a49/index.html</link>
+            <guid isPermaLink="false">75de9a73-aa5e-42bc-a206-994bd6a91a49</guid>
+            <pubDate>Tue, 12 Apr 2016 01:05:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
